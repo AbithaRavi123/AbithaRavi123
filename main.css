@@ -1,0 +1,28 @@
+.main{
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(mine.jpg);
+    background-size: cover;
+    height: 700px;
+    width: 700px;
+    background-position: center;
+    float: left;
+    padding-left: 10%;
+}
+sub{
+    padding-left: 5%;
+}
+p{
+    font-size: 24px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sub1{
+    display: block;
+    padding: 5px;
+    position: 5%;
+    float: left;
+}
+.bottom{
+    display: block;
+    padding: 5px;
+    position: 5%;
+}

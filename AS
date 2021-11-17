@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Senthil</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script >window.alert("Senthil is a Big Rowdy. Is it okay for you??")</script>
+</head>
+<body>
+    <span><h1 style="text-shadow: 5px gray;"><i>Hello!! I'm Senthil Kumaran Arjunan...</i></h1>
+        <center><caption><h1 style="color: rgb(233, 91, 91);">I'm Always Cool!!!</h1></caption></center>
+    </span>
+   
+    <div class="main">
+        <center><div class="sub"><br>
+        <p><i>"I'm Senthil kumaran Arjunan.My native is Namakkal,Tamilnadu,India. My current location is London,United Kingdom.I am the biggest bad boy in our area."</i></p>
+    </div></center>
+</div>
+<div class="bottom"><center>
+    <img src="mine4.jpg" height="300px" width="300px">
+    <img src="mine.jpg" height="300px" width="300px">
+</center></div>
+<div class=sub1>
+    <center>
+    <h2 style="text-decoration: underline;"><i>My Gallery</i></h2>
+      <img src="mine1.jpg" height="300px" width="300px">
+      <img src="mine2.jpg" height="300px" width="300px">
+      <img src="mine4.jpg" height="300px" width="300px">
+      <img src="mine3.jpg" height="300px" width="300px">
+    </center>
+    </div>
+</body>
+</html>
